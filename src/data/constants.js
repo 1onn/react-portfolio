@@ -1,4 +1,7 @@
 import logo from "../images/logo.png";
+import resume1 from "../resume/Hammad_Ahmad_CV.pdf";
+import ionos from "../images/ionos.svg";
+import springerLogo from "../images/springer_logo.png";
 
 export const Bio = {
   name: "Hammad Ahmad",
@@ -13,6 +16,7 @@ export const Bio = {
   github: "https://github.com/1onn",
   linkedin: "https://www.linkedin.com/in/hammad-ahmad-408103241/",
   kaggle: "https://www.kaggle.com/hammadahmad9999",
+  resume: resume1,
   contact: {
     phone: "+92-311-5749405",
     email: "hammadahmad9999@hotmail.com",
@@ -27,36 +31,56 @@ export const skills = [
       {
         name: "React Js",
         image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+          "https://img.icons8.com/?size=100&id=123603&format=png&color=000000",
       },
       {
         name: "Redux",
         image:
-          "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+          "https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000",
       },
       {
         name: "Next Js",
         image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+          "https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png",
       },
       {
         name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        image:
+          "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
       },
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
+      },
+      {
+        name: "EJS",
+        image:
+          "https://img.icons8.com/?size=100&id=Pxe6MGswB8pX&format=png&color=000000",
+      },
+      {
+        name: "Tailwind",
+        image:
+          "https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg",
       },
       {
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      },
+      {
+        name: "Bulma",
+        image:
+          "https://img.icons8.com/?size=100&id=OorGXamZWP8x&format=png&color=000000",
+      },
+      {
+        name: "SASS",
+        image: "https://cdn.worldvectorlogo.com/logos/sass-1.svg",
       },
       {
         name: "Material UI",
@@ -73,7 +97,8 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image: "https://expressjs.com/images/express-facebook-share.png",
+        image:
+          "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000",
       },
       {
         name: "Graph Ql",
@@ -87,7 +112,7 @@ export const skills = [
       {
         name: "Flask",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
+          "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg",
       },
       {
         name: "MySQL",
@@ -109,80 +134,6 @@ export const skills = [
       },
     ],
   },
-  // {
-  //   title: "DevOps",
-  //   skills: [
-  //     {
-  //       name: "AWS",
-  //       image:
-  //         "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-  //     },
-  //     {
-  //       name: "Google Cloud",
-  //       image:
-  //         "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-  //     },
-  //     {
-  //       name: "Docker",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-  //     },
-  //     {
-  //       name: "Jenkins",
-  //       image:
-  //         "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
-  //     },
-  //     {
-  //       name: "Nginx",
-  //       image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
-  //     },
-  //     {
-  //       name: "Grafana",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-  //     },
-  //     {
-  //       name: "Kubernetes",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-  //     },
-  //     {
-  //       name: "Prometheus",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
-  //     },
-  //   ],
-  // },
-  // {
-  //   title: "Android",
-  //   skills: [
-  //     {
-  //       name: "Java",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-  //     },
-  //     {
-  //       name: "Kotlin",
-  //       image:
-  //         "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-  //     },
-  //     {
-  //       name: "Jetpack Compose",
-  //       image:
-  //         "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png",
-  //     },
-  //     {
-  //       name: "XML",
-  //       image:
-  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-  //     },
-  //     {
-  //       name: "Android Studio",
-  //       image:
-  //         "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-  //     },
-  //   ],
-  // },
   {
     title: "Data Science & Machine Learning",
     skills: [
@@ -194,55 +145,65 @@ export const skills = [
       {
         name: "Jupyter",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
+          "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000",
       },
       {
         name: "Google Colab",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png",
+          "https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000",
       },
       {
-        name: "Sk Learn Kit",
+        name: "Scikit-learn",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
       },
       {
         name: "Matplotlib",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg",
+        image: "https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png",
       },
       {
         name: "Seaborn",
-        image: "https://seaborn.pydata.org/_static/logo-wide-lightbg.svg",
+        image: "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg",
       },
       {
         name: "Pandas",
-        image: "https://pandas.pydata.org/static/img/pandas_mark.svg",
+        image:
+          "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000",
       },
       {
         name: "NumPy",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg",
+          "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000",
       },
     ],
   },
   {
-    title: "Others",
+    title: "Other",
     skills: [
+      {
+        name: "Linux",
+        image:
+          "https://img.icons8.com/?size=100&id=17842&format=png&color=000000",
+      },
       {
         name: "Git",
         image:
-          "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
+          "https://img.icons8.com/?size=100&id=20906&format=png&color=000000",
       },
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://img.icons8.com/?size=100&id=ARy6tFUfwclb&format=png&color=000000",
       },
       {
         name: "Vercel",
         image:
           "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg",
+      },
+      {
+        name: "Shopify",
+        image:
+          "https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000",
       },
       {
         name: "VS Code",
@@ -257,12 +218,41 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png",
+          "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000",
       },
       {
         name: "Figma",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000",
+      },
+      {
+        name: "Slack",
+        image:
+          "https://img.icons8.com/?size=100&id=FrrWYTyu3vLa&format=png&color=000000",
+      },
+    ],
+  },
+  {
+    title: "DevOps",
+    skills: [
+      {
+        name: "Heroku",
+        image:
+          "https://img.icons8.com/?size=100&id=31085&format=png&color=000000",
+      },
+      {
+        name: "Azure",
+        image:
+          "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000",
+      },
+      {
+        name: "Hostinger",
+        image:
+          "https://seeklogo.com/images/H/hostinger-logo-396EBFA3F1-seeklogo.com.png",
+      },
+      {
+        name: "IONOS",
+        image: ionos,
       },
     ],
   },
@@ -274,7 +264,7 @@ export const experiences = [
     img: logo,
     role: "Research Assistant",
     company: "COMSATS University Islamabad",
-    date: "Jan 2024 - June 2024",
+    date: "Jan 2024 - PRESENT",
     desc: "Led comprehensive data science and analytics research to identify key health indicators for diabetes and develop a predictive model with the best accuracy. Transformed the predictive model into a web application using React for the front end and Flask for the back end, which predicts if the patient is prone to diabetes. If not, it provides the percentage risk and also highlights the contributing factor to help people stay safe.",
     skills: [
       "Python",
@@ -307,8 +297,8 @@ export const education = [
     img: logo,
     school: "COMSATS University Islamabad, Pakistan",
     date: "2020 - 2024",
-    grade: "Bachelor of Science in Bioinformatics",
-    desc: "I am currently pursuing a Bachelor's degree in Bioinformatics at COMSATS University Islamabad. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    // grade: "Bachelor of Science in Bioinformatics",
+    desc: "I have completed my Bachelor's degree in Bioinformatics at COMSATS University Islamabad, Pakistan. During my studies, I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Science in Bioinformatics",
   },
 ];
@@ -352,6 +342,9 @@ export const publications = [
     conference: "ICSMAI Conference 2024, Morocco",
     description:
       "Presented a comprehensive analysis of sleep efficiency by evaluating various influential factors. Used machine learning algorithms including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting Regressor.",
-    link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    link: "https://www.youtube.com/watch?v=y0W-PCEUvZg",
+    journal:
+      "Journal of Springer Book Series: Information Systems Engineering and Management",
+    logo: springerLogo,
   },
 ];
