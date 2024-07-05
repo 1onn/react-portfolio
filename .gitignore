@@ -41,3 +41,5 @@ ehthumbs.db
 
 # Log files
 *.log
+
+.htaccess
