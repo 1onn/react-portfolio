@@ -298,7 +298,7 @@ export const education = [
     school: "COMSATS University Islamabad, Pakistan",
     date: "2020 - 2024",
     // grade: "Bachelor of Science in Bioinformatics",
-    desc: "I have completed my Bachelor's degree in Bioinformatics at COMSATS University Islamabad, Pakistan. During my studies, I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I have completed my Bachelor's degree in Bioinformatics at COMSATS University Islamabad, Pakistan. During my studies, I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Web Development and Biological Subjects, among others.",
     degree: "Bachelor of Science in Bioinformatics",
   },
 ];
@@ -338,10 +338,10 @@ export const publications = [
     title:
       "Comparative Analysis of Machine Learning Methods for Enhancing Sleep Efficiency",
     date: "May 2024",
-    authors: "Hammad Ahmad, Umar Khan, Maleeha Azam",
+    authors: "Authors: Hammad Ahmad, Umar Khan, Maleeha Azam",
     conference: "ICSMAI Conference 2024, Morocco",
-    description:
-      "Presented a comprehensive analysis of sleep efficiency by evaluating various influential factors. Used machine learning algorithms including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting Regressor.",
+    description: `The study highlights potential patterns for enhancing sleep efficiency and overall well-being. Comprehensive analysis of sleep efficiency considering factors like age, gender, sleep stages, awakenings, caffeine, alcohol, smoking, and exercise. Machine learning algorithms (Linear Regression, Decision Tree, Random Forest, Gradient Boosting Regressor) used to predict sleep efficiency. Findings reveal significant insights into how lifestyle and biological factors influence sleep quality.`,
+
     link: "https://www.youtube.com/watch?v=y0W-PCEUvZg",
     journal:
       "Journal of Springer Book Series: Information Systems Engineering and Management",

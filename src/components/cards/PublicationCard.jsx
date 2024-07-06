@@ -81,7 +81,7 @@ const Journal = styled.div`
   }
 `;
 
-const PublicationCard = ({ publication }) => {
+const PublicationCard = ({ publication, isFirst }) => {
   return (
     <VerticalTimelineElement
       icon={
@@ -134,7 +134,7 @@ const PublicationCard = ({ publication }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Read more
+              {isFirst ? "Watch The Presentation" : "Read more"}
             </a>
           </div>
         )}

@@ -68,6 +68,7 @@ const Publications = () => {
             <PublicationCard
               key={`publication-${index}`}
               publication={publication}
+              isFirst={index === 0}
             />
           ))}
         </VerticalTimeline>
